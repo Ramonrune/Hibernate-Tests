@@ -1,4 +1,4 @@
-# Hibernate-Tests
+# Hibernate Samples
 
 ## Introduction
 <img src="http://www.javatechupdates.net/wp-content/uploads/2015/12/java-application-development2-600x334.jpg"/>
