@@ -1,5 +1,7 @@
 # Hibernate Samples
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09d502fe84a84645b9565759bb3a7652)](https://app.codacy.com/app/Ramonrune/hibernate-samples?utm_source=github.com&utm_medium=referral&utm_content=Ramonrune/hibernate-samples&utm_campaign=Badge_Grade_Dashboard)
+
 ## Introduction
 <img src="http://www.javatechupdates.net/wp-content/uploads/2015/12/java-application-development2-600x334.jpg"/>
 
